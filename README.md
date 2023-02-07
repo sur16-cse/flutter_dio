@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_dio
 
 A new Flutter project.
