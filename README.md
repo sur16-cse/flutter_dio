@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_dio
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_dio
+>>>>>>> 10d4eb6e42d5bcd6141f829a3e291dc393e3c4d8
